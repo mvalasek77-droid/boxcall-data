@@ -1,0 +1,14 @@
+[
+  {"id": "seed_resident_evil", "title": "Resident Evil", "releaseDate": "2026-09-18", "genre": "Horror", "posterURL": null},
+  {"id": "seed_verity", "title": "Verity", "releaseDate": "2026-10-02", "genre": "Thriller", "posterURL": null},
+  {"id": "seed_street_fighter", "title": "Street Fighter", "releaseDate": "2026-10-16", "genre": "Action", "posterURL": null},
+  {"id": "seed_clayface", "title": "Clayface", "releaseDate": "2026-10-23", "genre": "Horror", "posterURL": null},
+  {"id": "seed_wildwood", "title": "Wildwood", "releaseDate": "2026-10-23", "genre": "Animation", "posterURL": null},
+  {"id": "seed_hunger_games", "title": "The Hunger Games: Sunrise on the Lake", "releaseDate": "2026-11-20", "genre": "Sci-Fi", "posterURL": null},
+  {"id": "seed_focker_in_law", "title": "Focker In-Law", "releaseDate": "2026-11-25", "genre": "Comedy", "posterURL": null},
+  {"id": "seed_violent_night2", "title": "Violent Night 2", "releaseDate": "2026-12-04", "genre": "Action", "posterURL": null},
+  {"id": "seed_avengers", "title": "Avengers: Doomsday", "releaseDate": "2026-12-18", "genre": "Action", "posterURL": null},
+  {"id": "seed_dune3", "title": "Dune: Part Three", "releaseDate": "2026-12-18", "genre": "Sci-Fi", "posterURL": null},
+  {"id": "seed_angry_birds3", "title": "The Angry Birds Movie 3", "releaseDate": "2026-12-23", "genre": "Animation", "posterURL": null},
+  {"id": "seed_werwulf", "title": "Werwulf", "releaseDate": "2026-12-25", "genre": "Horror", "posterURL": null}
+]
